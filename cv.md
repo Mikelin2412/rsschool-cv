@@ -10,11 +10,29 @@
 ## About me:
 ---
 ## My skills:
+* Java
+* Python Basics
+* C++ Basics
+* JavaScript Basics
+* HTML5, CSS3
+* VS Code, IntelliJ IDEA, PyCharm
+* Figma
+* Trello
+* Git, GitHub
 ---
 ## Code example:
 ---
 ## Work experience:
+I have no work experience yet... I just worked on my pet projects
 ---
 ## Education:
+* ***Belarusian State University of Informatics and Radioelectronics***
+    + 2 course, Engineering and Psycological Support of Information Technologies
+* ***Stepik***
+    + Java Basics
+    + Web-developing for beginners: HTML and CSS
 ---
 ## Languages:
+* Russian - Native
+* Belarusian - Native
+* English - A2/B1(I use some apps to improve my skills in English)
